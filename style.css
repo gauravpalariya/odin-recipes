@@ -1,0 +1,40 @@
+/* styling the index page */
+.index-heading {
+    text-align : center;
+    color: rgb(109, 6, 225);
+    font-weight: bold;
+    font-size: xx-large;
+    background-color: rgba(108, 6, 225, 0.181);
+}
+
+.author {
+    text-align: center;
+    color: rgb(0, 105, 5);
+    font-size: x-large;
+    background-color: rgba(0, 105, 5, 0.29);
+
+}
+
+.main-image, .recipe-images {
+    height: auto;
+    width: 1000px;
+}
+
+.links {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(255, 204, 0, 0.093);
+    color: darkblue;
+    font-size: x-large;
+}
+.recipe-heading {
+    text-align : center;
+    color: rgb(161, 81, 1);
+    font-weight: bold;
+    font-size: xx-large;
+    background-color: rgba(161, 81, 1, 0.357);
+}
+
+.ingredients-part {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(0, 0, 0, 0.185);
+}
